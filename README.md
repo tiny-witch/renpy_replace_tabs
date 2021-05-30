@@ -2,8 +2,8 @@
 A python script for .rpy files to replace tabs with spaces
 USE INSTRUCTIONS:
 1. place "renpy_replace_tabs.py" in your game directory. 
-2. navigate to your game directory in the terminal. You can do this by copying the file path to your script (ie. user/game/path/) and typing in terminal:
-cd "user/game/path/"
+2. navigate to your game directory in the terminal. You can do this by copying the file path to your script (ie. user/etc/game/) and typing in terminal:
+cd "user/etc/game/"
 
 Check if you're in the right folder by typing ls , which will return a list of files in the folder, ie:
 script.rpy
