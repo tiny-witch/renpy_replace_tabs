@@ -5,7 +5,7 @@ USE INSTRUCTIONS:
 2. navigate to your game directory in the terminal. You can do this by copying the file path to your script (ie. user/game/path/) and typing in terminal:
 cd "user/game/path/"
 
-Check if you're in the right folder by typing ls , which will return a listt of files in the folder, ie:
+Check if you're in the right folder by typing ls , which will return a list of files in the folder, ie:
 script.rpy
 options.rpy 
 etc.. 
